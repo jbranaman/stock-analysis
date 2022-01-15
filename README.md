@@ -27,3 +27,6 @@ It can be concluded from the 2018 stocks analysis that the overall return was lo
 Looking at the analysis between the two years it can be concluded that stock values have dropped and investing in different stocks should be considered.
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
+The advantage of refactoring code is creating more simplified code therefore reducing its complexity and improving its scalability. The disadvantage of refactoring code is the redundancy and additional time spent going back over already written code.
+### Advantages and Disadvantages of Original and Refactored VBA Code
+The advantage of the original code is that it is an already written out code that is fairly clear and works. The disadvantage of the original code is the run time for the code being slower. The advantage of the refactored code is an improved run time. The disadvantage of the refactored code the additional time consumption of going back over the already written code and the potential of creating bugs in the code.
